@@ -43,7 +43,7 @@ We would like to thank the following channels for their help in developing Onlin
 
 ## Developers
 
-Online Chaos is being developed by Williams Tamayo and Roberto Polanco.
+Online Chaos is being developed by me, Williams Tamayo and Roberto Polanco who is a game developer as myself.
 
 ## Download
 
