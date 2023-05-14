@@ -1,5 +1,3 @@
-Sure, here's an example README.md file for your Online Chaos game repository on GitHub:
-
 # Online Chaos
 
 Online Chaos is an online RPG game developed in Unity for PC and mobile. The game uses Mirror as the core for networking with some modifications to support players and network objects in multiple scenes at the same time.
